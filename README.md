@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Luke T.
+- I’m currently in the making of my website (thelukeweb)
+- I’m currently learning HTML code
+- You can contact me via Email (listed on my YT account)
+- To access my YT account download thelukeweb's newest release today!
