@@ -1,5 +1,10 @@
-- 👋 Hi, I’m Luke T.
-- I’m currently in the making of my website (thelukeweb)
-- I’m currently learning HTML code
-- You can contact me via Email (listed on my YT account)
-- To access my YT account download thelukeweb's newest release today!
+Hi everyone seeing this, I'm Luke
+
+I do a lot of stuff, which are currently
+
+1. Developing a Minecraft server
+2. Making a website called thelukeweb
+3. Making & coding a videogame called LukeClicker
+4. Making a website FOR my game LukeClicker
+
+ok cya later and sub to me on youtube https://www.youtube.com/@LukeHDPlays
